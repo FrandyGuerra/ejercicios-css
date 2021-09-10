@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should not add your rules above the existing code",
+      "status": "passed"
+    },
+    {
+      "title": "the 'a' tag in the index.html should not be deleted",
+      "status": "passed"
+    },
+    {
+      "title": "The border-color rule for the 'threeDimension active ' property should match the instruction color",
+      "status": "passed"
+    },
+    {
+      "title": "You should not change the existing head tag elements",
+      "status": "passed"
+    }
+  ]
+}

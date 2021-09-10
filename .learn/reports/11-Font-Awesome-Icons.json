@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "ul tag should exists",
+      "status": "passed"
+    },
+    {
+      "title": "At least 3 li tags should exist",
+      "status": "passed"
+    },
+    {
+      "title": "At least 3 i tags should exist",
+      "status": "passed"
+    },
+    {
+      "title": " LI innerHTML exist",
+      "status": "passed"
+    },
+    {
+      "title": "the i tag should have a class \"fa\"",
+      "status": "passed"
+    }
+  ]
+}

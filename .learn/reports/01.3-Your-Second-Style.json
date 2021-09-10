@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The background should be blue",
+      "status": "passed"
+    },
+    {
+      "title": "The body tag should not contains any inline style",
+      "status": "passed"
+    },
+    {
+      "title": "You should not change the existing head tag elements",
+      "status": "passed"
+    }
+  ]
+}

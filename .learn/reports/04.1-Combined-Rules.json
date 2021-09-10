@@ -1,0 +1,41 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 7,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "The body tag should not contains any inline style",
+      "status": "passed"
+    },
+    {
+      "title": "the width should be '50px'",
+      "status": "passed"
+    },
+    {
+      "title": "the height should be '50px'",
+      "status": "passed"
+    },
+    {
+      "title": "the background-size should be contain",
+      "status": "passed"
+    },
+    {
+      "title": "the background should include the shorthand property",
+      "status": "passed"
+    },
+    {
+      "title": "the padding should include the shorthand property in the right order (top, right, bottom, left)",
+      "status": "passed"
+    },
+    {
+      "title": "You should not change the existing head tag elements",
+      "status": "passed"
+    }
+  ]
+}

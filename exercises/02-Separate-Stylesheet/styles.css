@@ -2,3 +2,8 @@
     1. Select the body tag.
     2. Add the background rule equal to blue.
  */
+body {
+	background-color: blue;
+	background-size: contain;
+	background-repeat: inherit;
+}

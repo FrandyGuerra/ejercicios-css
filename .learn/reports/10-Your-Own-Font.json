@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 1,
+  "numFailedTests": 1,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": "\u001b[1m\u001b[31m  \u001b[1m● \u001b[1mAll the styles should be applied › the  font-family in the #myTitle should exists\u001b[39m\u001b[22m\n\n    TypeError: Cannot read property 'cssRules' of undefined\n\u001b[2m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 22 |\u001b[39m   it(\u001b[32m\"the  font-family in the #myTitle should exists\"\u001b[39m\u001b[33m,\u001b[39m \u001b[36mfunction\u001b[39m () {\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 23 |\u001b[39m     \u001b[90m// get computed styles of any element you like\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m\u001b[31m\u001b[1m>\u001b[2m\u001b[39m\u001b[90m 24 |\u001b[39m     \u001b[36mlet\u001b[39m cssArray\u001b[33m=\u001b[39mdocument\u001b[33m.\u001b[39mstyleSheets[\u001b[35m0\u001b[39m]\u001b[33m.\u001b[39mcssRules\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m    |\u001b[39m                                          \u001b[31m\u001b[1m^\u001b[2m\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 25 |\u001b[39m     \u001b[90m// console.log(\"%%% \", cssArray)\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 26 |\u001b[39m     \u001b[36mlet\u001b[39m orangeHoverSelector\u001b[33m=\u001b[39m\u001b[32m\"\"\u001b[39m\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 27 |\u001b[39m     \u001b[36mfor\u001b[39m (\u001b[36mlet\u001b[39m i\u001b[33m=\u001b[39m\u001b[35m0\u001b[39m\u001b[33m;\u001b[39m i\u001b[33m<\u001b[39m\u001b[33mcssArray\u001b[39m\u001b[33m.\u001b[39mlength\u001b[33m;\u001b[39m i\u001b[33m++\u001b[39m) {\u001b[0m\u001b[22m\n\u001b[2m\u001b[22m\n\u001b[2m      \u001b[2mat Object.<anonymous> (\u001b[2m\u001b[0m\u001b[36mexercises/10-Your-Own-Font/tests.js\u001b[39m\u001b[0m\u001b[2m:24:42)\u001b[2m\u001b[22m\n"
+    }
+  ],
+  "failed": [
+    {
+      "title": "the  font-family in the #myTitle should exists",
+      "status": "failed"
+    },
+    {
+      "title": "the h1 tag should have a class \"myTitle\"",
+      "status": "passed"
+    },
+    {
+      "title": "The link should be included in the head tag",
+      "status": "passed"
+    },
+    {
+      "title": "The Head tag should not includes a Style tag",
+      "status": "passed"
+    }
+  ]
+}

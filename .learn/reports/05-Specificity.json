@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should not change the existing head tag elements",
+      "status": "passed"
+    },
+    {
+      "title": "You should not delete or edit the existing code",
+      "status": "passed"
+    },
+    {
+      "title": "You should use a more specific rule using the !important annotation ",
+      "status": "passed"
+    }
+  ]
+}

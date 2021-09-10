@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should not change the existing head tag elements",
+      "status": "passed"
+    },
+    {
+      "title": "The background should be green",
+      "status": "passed"
+    }
+  ]
+}

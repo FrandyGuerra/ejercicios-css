@@ -1,0 +1,61 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 12,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "the background should match",
+      "status": "passed"
+    },
+    {
+      "title": "the font-family should be 'Times New Roman'",
+      "status": "passed"
+    },
+    {
+      "title": "the padding-left should be '20px'",
+      "status": "passed"
+    },
+    {
+      "title": "the font-family in the H1 Tag should be 'Courier'",
+      "status": "passed"
+    },
+    {
+      "title": "the color in the H1 Tag should be 'red'",
+      "status": "passed"
+    },
+    {
+      "title": "the text-align in the H1 Tag should be 'center'",
+      "status": "passed"
+    },
+    {
+      "title": "the text-decoration in the H2 Tag should be 'underline'",
+      "status": "passed"
+    },
+    {
+      "title": "the padding in the #id1 Tag should be '5px'",
+      "status": "passed"
+    },
+    {
+      "title": "the background-color in the #id1 Tag should be 'semi transparent white'",
+      "status": "passed"
+    },
+    {
+      "title": "The a hover underline should be removed",
+      "status": "passed"
+    },
+    {
+      "title": "The a hover color should be green",
+      "status": "passed"
+    },
+    {
+      "title": "You should not change the existing head tag elements",
+      "status": "passed"
+    }
+  ]
+}

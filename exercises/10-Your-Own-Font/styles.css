@@ -1,3 +1,5 @@
-.myTitle {
+.myTitle, #myTitle {
 	/*your code here*/
+	font-family: Tangerine;
 }
+

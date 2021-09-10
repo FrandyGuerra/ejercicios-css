@@ -1,0 +1,45 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 8,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "the  padding  should be '10px'",
+      "status": "passed"
+    },
+    {
+      "title": "the  border radius should be '4px'",
+      "status": "passed"
+    },
+    {
+      "title": "the  border should be '1px solid #ffffff;'",
+      "status": "passed"
+    },
+    {
+      "title": "the  background should be 'rgb(255, 153, 51)'",
+      "status": "passed"
+    },
+    {
+      "title": "the  underline should to be removed",
+      "status": "passed"
+    },
+    {
+      "title": "The mouse hover property should be #cc7a00",
+      "status": "passed"
+    },
+    {
+      "title": "You should be careful with the specifity",
+      "status": "passed"
+    },
+    {
+      "title": "You should not change the existing head tag elements",
+      "status": "passed"
+    }
+  ]
+}
